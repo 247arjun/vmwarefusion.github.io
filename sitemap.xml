@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/faq/</loc>
+    <lastmod>2020-01-20T20:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/about/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/career/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/contact/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/team/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/privacy/</loc>
+    <lastmod>2019-02-28T12:35:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://vmwarefusion.github.io/</loc>
+  </url>
+  
+</urlset>
